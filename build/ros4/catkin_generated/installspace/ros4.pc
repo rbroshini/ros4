@@ -1,0 +1,8 @@
+prefix=/home/unifact/task2_ws/install
+
+Name: ros4
+Description: Description of ros4
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
